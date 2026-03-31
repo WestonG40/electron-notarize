@@ -1,5 +1,5 @@
 Electron Notarize
------------
+----------- 
 
 > Notarize your Electron apps seamlessly
 
